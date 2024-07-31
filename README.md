@@ -1,1 +1,1 @@
-# megacrypt
+# MegaCrypt
